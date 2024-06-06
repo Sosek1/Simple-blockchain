@@ -16,6 +16,10 @@ Additionally, the project includes a user interface built with Vue.js that allow
 - 🌐 **Flask**: Flask is used to create the API that connects the front-end with the blockchain backend.
 - 📄 **Text Files**: Blockchain data and keys are stored in text files for simplicity.
 
+## Demo
+
+https://github.com/Sosek1/Simple-blockchain/assets/68021413/8e04172b-ec90-4ad2-a5ca-81d0f3a3f606
+
 ## Installation
 
 To set up this project on your local machine, follow these steps:
